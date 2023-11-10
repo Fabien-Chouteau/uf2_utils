@@ -1,0 +1,10 @@
+name = "uf2_utils"
+description = "Build and read UF2 files"
+version = "0.1.0-dev"
+
+authors = ["Fabien Chouteau"]
+maintainers = ["Fabien Chouteau <fabien.chouteau@gmail.com>"]
+maintainers-logins = ["Fabien-Chouteau"]
+
+[build-switches]
+"*".ada_version = "ada2022"
